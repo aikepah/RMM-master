@@ -1,0 +1,7 @@
+{
+  "require" : {
+	"themattharris/tmhoauth" : "dev-master",
+    "facebook/php-sdk" : "*",
+    "kriswallsmith/buzz" : "*"
+  }
+}
